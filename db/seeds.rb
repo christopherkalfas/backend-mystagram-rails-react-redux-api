@@ -12,7 +12,7 @@ creature1 = Creature.create(
     species: "Hippogriff",
     location: "Hogwarts",
     temperament: "Proud",
-    image: "https://picsart.com/i/sticker-hippogriff-buckbeak-hp-harrypotter-wizardingworld-282603553028211",
+    image: "https://monsterlegacy.files.wordpress.com/2017/03/buckbeake.jpg",
     likes: 2
 )
 

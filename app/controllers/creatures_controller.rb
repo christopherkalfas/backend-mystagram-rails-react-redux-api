@@ -35,7 +35,9 @@ class CreaturesController < ApplicationController
 
   # DELETE /creatures/1
   def destroy
+    id = @creature.id
     @creature.destroy
+    render json: id
   end
 
   private
